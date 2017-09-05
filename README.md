@@ -1,2 +1,2 @@
-# projects
+# Yoges Projects
 learning projects
